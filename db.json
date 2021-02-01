@@ -49,7 +49,11 @@
 				"Leave arrivals and go to the StreeCars desk located just outside the exit.",
 				"Tell the counter staff your name and booking reference. They'll give you a pin number.",
 				"Follow the StreetCars staff member to your taxi, and tell the driver your pin number."
-			]
+			],
+			"flightDetails": {
+				"flightNumber": "FR4539",
+        		"destinationIata": "STN"
+			}
 		}]
 	}
 }
