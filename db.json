@@ -44,7 +44,12 @@
 			"legId": "31542812",
 			"isCancellable": true,
 			"freeCancellationPeriodInMinutes": 120,
-			"isAmendable": true
+			"isAmendable": true,
+			"pickupInstructions": [
+				"Leave arrivals and go to the StreeCars desk located just outside the exit.",
+				"Tell the counter staff your name and booking reference. They'll give you a pin number.",
+				"Follow the StreetCars staff member to your taxi, and tell the driver your pin number."
+			]
 		}]
 	}
 }
