@@ -9,7 +9,7 @@
 		},
 		"bookingReference": "59679347",
 		"isFreeTaxiBooking": false,
-		"status": "ACCEPTED",
+		"status": "CONFIRMED",
 		"totalPrice": {
 			"amount": 57.79,
 			"currency": "GBP"
