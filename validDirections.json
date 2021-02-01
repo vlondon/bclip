@@ -1,0 +1,28 @@
+{
+	"bounds": {
+		"northeast": {
+			"latitude": 0,
+			"longitude": 0
+		},
+		"southwest": {
+			"latitude": 0,
+			"longitude": 0
+		}
+	},
+	"distanceInMetres": 1500,
+	"durationInSeconds": 100,
+	"polyline": "string",
+	"steps": [
+		{
+			"end": {
+				"latitude": 0,
+				"longitude": 0
+			},
+			"polyline": "string",
+			"start": {
+				"latitude": 0,
+				"longitude": 0
+			}
+		}
+	]
+}
