@@ -1,11 +1,11 @@
 {
 	"payload": {
 		"passenger": {
-			"firstName": "Vladimirs",
-			"lastName": "Matusevics",
+			"firstName": "John",
+			"lastName": "Smith",
 			"title": "Mr",
 			"cellphone": "+447445661025",
-			"email": "vladimirs.matusevics@booking.com"
+			"email": "john.smith@booking.com"
 		},
 		"bookingReference": "59679347",
 		"isFreeTaxiBooking": false,
@@ -30,7 +30,7 @@
 				"imageUrl": "https://cdn.rideways.com/images/cars/standard.jpg"
 			},
 			"driverDetails": {
-				"driverName": "Fred Bloggs",
+				"driverName": "Constantine S.",
 				"driverPhone": "+447700900000",
 				"carMakeAndModel": null,
 				"carColour": null,
