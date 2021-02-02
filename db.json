@@ -14,6 +14,19 @@
 			"amount": 57.79,
 			"currency": "GBP"
 		},
+		"driverDetails": {
+			"driverName": "Constantine S.",
+			"driverPhone": "+447700900000",
+			"carMakeAndModel": null,
+			"carColour": null,
+			"carRegistration": null,
+			"driverCellPhone": "123456"
+		},
+		"pickupInstructions": [
+			"Leave arrivals and go to the StreeCars desk located just outside the exit.",
+			"Tell the counter staff your name and booking reference. They'll give you a pin number.",
+			"Follow the StreetCars staff member to your taxi, and tell the driver your pin number."
+		],
 		"journeys": [{
 			"distanceInKm": 48.2,
 			"dropOffLocation": {
@@ -29,14 +42,6 @@
 				"name": "Standard",
 				"imageUrl": "https://cdn.rideways.com/images/cars/standard.jpg"
 			},
-			"driverDetails": {
-				"driverName": "Constantine S.",
-				"driverPhone": "+447700900000",
-				"carMakeAndModel": null,
-				"carColour": null,
-				"carRegistration": null,
-				"driverCellPhone": "123456"
-			},
 			"comment": null,
 			"luggageCapacity": 2,
 			"localPickupDateTime": "2020-10-09T16:24:21",
@@ -45,11 +50,6 @@
 			"isCancellable": true,
 			"freeCancellationPeriodInMinutes": 120,
 			"isAmendable": true,
-			"pickupInstructions": [
-				"Leave arrivals and go to the StreeCars desk located just outside the exit.",
-				"Tell the counter staff your name and booking reference. They'll give you a pin number.",
-				"Follow the StreetCars staff member to your taxi, and tell the driver your pin number."
-			],
 			"flightDetails": {
 				"flightNumber": "FR4539",
         		"destinationIata": "STN"
